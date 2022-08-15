@@ -1,10 +1,24 @@
-# BMI_Calculation
+# BMI_Calculator App
+
+I created a BMI calculation, it has 2 units: imperial (feet/Lb) and metric (meters/kg)
+
+The application has Speech that you can turn ON and listen to the BMI result
+
+
+# Package to Install: Local setup
+
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.8" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.8" />
+    <PackageReference Include="coverlet.collector" Version="3.1.2">
+
+
+
+# Apps Screenshot!
 
 
 
 
-
-Apps Screenshot!
 
 ![Screenshot (393)](https://user-images.githubusercontent.com/88563359/184582113-7931b279-40e3-4b00-b98f-073001af60a7.png)
 
