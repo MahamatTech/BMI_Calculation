@@ -40,3 +40,7 @@ The application has Speech that you can turn ON and listen to the BMI result
 
 
 ![Screenshot (401)](https://user-images.githubusercontent.com/88563359/184582207-c08da5b4-8b32-418e-b015-8b7127f671ae.png)
+
+
+
+# Quick Video DEMO https://youtu.be/QVbTsjPDjYk
