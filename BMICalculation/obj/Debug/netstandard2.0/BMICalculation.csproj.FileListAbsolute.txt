@@ -1,0 +1,10 @@
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\bin\Debug\netstandard2.0\BMICalculation.deps.json
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\bin\Debug\netstandard2.0\BMICalculation.dll
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\bin\Debug\netstandard2.0\BMICalculation.pdb
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.csproj.AssemblyReference.cache
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.AssemblyInfoInputs.cache
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.AssemblyInfo.cs
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.csproj.CoreCompileInputs.cache
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.dll
+C:\Users\maham\Desktop\Winter Term 2022\PROG 1442 Mobile\BMI Solution\BMICalculation\obj\Debug\netstandard2.0\BMICalculation.pdb

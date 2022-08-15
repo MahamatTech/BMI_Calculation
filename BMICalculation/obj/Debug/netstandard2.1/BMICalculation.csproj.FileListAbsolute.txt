@@ -1,0 +1,10 @@
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\bin\Debug\netstandard2.1\BMICalculation.deps.json
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\bin\Debug\netstandard2.1\BMICalculation.dll
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\bin\Debug\netstandard2.1\BMICalculation.pdb
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.csproj.AssemblyReference.cache
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.AssemblyInfoInputs.cache
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.AssemblyInfo.cs
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.csproj.CoreCompileInputs.cache
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.dll
+C:\MyWork\PROG1442\BMI\BMI Solution\BMICalculation\obj\Debug\netstandard2.1\BMICalculation.pdb

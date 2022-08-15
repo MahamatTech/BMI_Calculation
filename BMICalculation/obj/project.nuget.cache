@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvZVuSzMAnOOysMikDMKCChBA/8wpFmTVUeGzAOWKo5d0MrQ598GBasE9MPKfyUZz5Zf+xnEQaw82yxQxuRtRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maham\\Desktop\\Winter Term 2022\\PROG 1442 Mobile\\BMI Solution\\BMICalculation\\BMICalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maham\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maham\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
